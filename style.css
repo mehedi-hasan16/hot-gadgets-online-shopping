@@ -1,0 +1,33 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.bg-car{
+    background-image: url(images/bg-1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.carousel-item{
+    padding: 20px 40px;
+}
+.catagories img{
+    width: 100%;
+}
+.container{
+    margin-bottom: 100px;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 20px gray;
+}
+.img-cat{
+    border-radius: 10px;
+    padding: 80px;
+    margin: 10px;
+    box-shadow: 5px 5px 20px gray;
+}
+.catagories h2{
+    text-align: center;
+    margin-bottom: 50px;
+}
